@@ -1,4 +1,4 @@
-https://img.shields.io/badge/status-completado-green?style=flat&labelColor=black
+![Static Badge](https://img.shields.io/badge/status-completado-green?style=flat&labelColor=black)
 
 <h1>🎁 Challenge do Amigo-Secreto 🎁</h1> 
 
