@@ -4,7 +4,7 @@
 
 <p1> 📄 Site com sorteios de nomes de amigo secreto.</p1>
 
-- <p2> Tem que haver mais de um nome para sorteo, havendo validação para essa funcionalidade.</p2>
+- <p2> Tem que haver mais de um nome para sorteio, havendo validação para essa funcionalidade.</p2>
 
 - <p3> Nomes sorteados não repetem pares.</p3>
 
